@@ -57,7 +57,7 @@ model=""
 #
 # Version and md5sum
 #
-FIRMWARE_URL="https://raw.githubusercontent.com/niceboygithub/AqaraCameraHubfw/main"
+FIRMWARE_URL="https://raw.gitmirror.com/niceboygithub/AqaraCameraHubfw/main"
 VERSION="4.0.8_0008.0010"
 BOOT_MD5SUM=""
 COOR_MD5SUM="8c45836f99ff6baa1289c6368427d73b"
